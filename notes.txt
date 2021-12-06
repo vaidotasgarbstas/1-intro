@@ -2,6 +2,6 @@ Sekancios uzduotys
 
 -pakeisti srifta
 -spalvos
--limituoti teksto ploti
+-limituoti teksto ploti (puse ekrano)
 -fonas (spalva)
 
